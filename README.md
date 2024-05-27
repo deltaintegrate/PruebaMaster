@@ -1,4 +1,4 @@
-## Prueba Backend MAster
+## Prueba Backend Master
 Esta es el readme de la prueba de 6 puntos de Master
 
 ##Estructura
