@@ -3,12 +3,12 @@ Esta es el readme de la prueba de 6 puntos de Master
 
 ##Estructura
 
-El siguiente projecto esta compuesto por una aplicacion en nodejs con type: imports para mejor manejo de clases. ademas de una estructura de projecto en forma de aqruitectura hexagonal, con un archivo env donde se encuentran
-las credenciales de acceso a BD a configurar para ejecutar el projecto en postgres.
+El siguiente proyecto esta compuesto por una aplicacion en nodejs con type: imports para mejor uso de clases en node. además de una estructura del proyecto en forma de arquitectura hexagonal, con un archivo env donde se encuentran
+las credenciales de acceso a Base de Datos a configurar para ejecutarse en postgres.
 
 ## Respuestas
 
-- Respuesta 1, 2, 3, 4 se encuentra en la estructura del codigo y al ejecutar
+- Respuesta 1, 2, 3, 4 se encuentra en la estructura del código y al ejecutar
 ```javascript
 npm run start
 ```
