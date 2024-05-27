@@ -16,3 +16,7 @@ se entrega las respuestas pertinentes
 
 - Respuestas 5: se encuentra en commons como `respuesta5.md`
 - Respuesta 6: se encuentra en docs como `DOCUMENTACIÓN DE NOMENCLATURA`
+
+## Migracion base de datos 
+
+se entrega migracion de la base de datos la cual estaba trabajando
