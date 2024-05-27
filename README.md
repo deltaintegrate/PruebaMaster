@@ -19,4 +19,4 @@ se entrega las respuestas pertinentes
 
 ## Migracion base de datos 
 
-se entrega migracion de la base de datos la cual estaba trabajando
+se entrega migracion de la base de datos la cual estaba trabajando `src/migration/migracionvideo.sql`
