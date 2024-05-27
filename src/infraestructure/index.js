@@ -8,6 +8,9 @@ import { AutorService } from '../application/autorService.js';
 import { PostgresVideoRepository } from '../infraestructure/ports/postgresVideoRepository.js';
 import { PostgresAutorRepository } from '../infraestructure/ports/postgresAutorRepository.js';
 
+
+//Estos imports deberian venir en infraestructura en los controladores, 
+//para temas de ejemplo y ejecucion simple del projecto se dejaron en el index.js
 // Crear instancias de los repositorios
 const videoRepository = new PostgresVideoRepository();
 const autorRepository = new PostgresAutorRepository();
@@ -45,10 +48,8 @@ async function main() {
     } catch (error) {
         console.log('Error:', error);
     }
-
-
-
-
 }
 
 main();
+
+
