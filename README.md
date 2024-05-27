@@ -8,15 +8,18 @@ las credenciales de acceso a Base de Datos a configurar para ejecutarse en postg
 
 ## Respuestas
 
-- Respuesta 1, 2, 3, 4 se encuentra en la estructura del código y al ejecutar
+Las respuestas se encuentran ubicadas de la siguiente manera: 
+
+
+- Respuesta 1, 2, 3, 4 están dentro de la estructura del código y también se evidencian al ejecutar
 ```javascript
 npm run start
 ```
-se entrega las respuestas pertinentes
 
-- Respuestas 5: se encuentra en commons como `respuesta5.md`
-- Respuesta 6: se encuentra en docs como `DOCUMENTACIÓN DE NOMENCLATURA`
+Dentro de commons se evidencia la 5 respuesta nombrada como respuesta5.md
+
+Y finalmente dentro de la DOCUMENTACIÓN DE NOMENCLATURA ubicada en doc se evidencia la respuesta 6
 
 ## Migracion base de datos 
 
-se entrega migracion de la base de datos la cual estaba trabajando `src/migration/migracionvideo.sql`
+se entrega la migracion de la base de datos la cual se estaba trabajando en `src/migration/migracionvideo.sql`
